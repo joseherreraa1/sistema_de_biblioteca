@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cien anos de soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "editorial": "Editorial Sudamericana",
+        "anio_publicacion": 1967,
+        "genero": "novela",
+        "cantidad": 4
+    },
+    {
+        "id": 2,
+        "titulo": "El senor de los anillos",
+        "autor": "J. R. R. Tolkien",
+        "editorial": "George Allen & Unwin",
+        "anio_publicacion": 1955,
+        "genero": "Fantasia",
+        "cantidad": 8
+    },
+    {
+        "id": 3,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "editorial": "Secker & Warburg",
+        "anio_publicacion": 1949,
+        "genero": "ficcion",
+        "cantidad": 5
+    },
+    {
+        "id": 4,
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "editorial": "T. Egerton, Whitehall",
+        "anio_publicacion": 1813,
+        "genero": "novela",
+        "cantidad": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Crimen y castigo",
+        "autor": "Fiodor Dostoyevski",
+        "editorial": "The Russian Messenger",
+        "anio_publicacion": 1866,
+        "genero": "novela",
+        "cantidad": 9
+    },
+    {
+        "id": 6,
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "editorial": "Olympia Press",
+        "anio_publicacion": 1955,
+        "genero": "novela",
+        "cantidad": 9
+    },
+    {
+        "id": 7,
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "editorial": "Sylvia Beach",
+        "anio_publicacion": 1922,
+        "genero": "novela",
+        "cantidad": 9
+    },
+    {
+        "id": 8,
+        "titulo": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "editorial": "Revue de Paris",
+        "anio_publicacion": 1856,
+        "genero": "novela",
+        "cantidad": 2
+    },
+    {
+        "id": 9,
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "editorial": "Grasset",
+        "anio_publicacion": 1913,
+        "genero": "novela",
+        "cantidad": 5
+    },
+    {
+        "id": 10,
+        "titulo": "Un mundo feliz",
+        "autor": "Aldous Huxley",
+        "editorial": "Chatto & Windus",
+        "anio_publicacion": 1932,
+        "genero": "ciencia ficcion",
+        "cantidad": 0
+    },
+    {
+        "id": 11,
+        "titulo": "don quijote de la mancha",
+        "autor": "miguel de cervantes",
+        "editorial": "austral editorial",
+        "anio_publicacion": 1605,
+        "genero": "novela",
+        "cantidad": 56
+    },
+    {
+        "id": 12,
+        "titulo": "diario de ana frank",
+        "autor": "ana frank",
+        "editorial": "eudeva",
+        "anio_publicacion": 1947,
+        "genero": "biografia",
+        "cantidad": 5
+    }
+]

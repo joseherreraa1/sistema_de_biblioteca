@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "id_socio": 1,
+        "id_libro": 2,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-21",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 2,
+        "id_socio": 1,
+        "id_libro": 2,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-28",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 3,
+        "id_socio": 1,
+        "id_libro": 4,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-21",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 4,
+        "id_socio": 2,
+        "id_libro": 4,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-21",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 5,
+        "id_socio": 1,
+        "id_libro": 10,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-27",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 6,
+        "id_socio": 2,
+        "id_libro": 5,
+        "fecha_prestamo": "2024-06-21",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-22",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 7,
+        "id_socio": 2,
+        "id_libro": 5,
+        "fecha_prestamo": "2024-06-22",
+        "costo": 0.0,
+        "fecha_devolucion": null,
+        "estado": "En Curso"
+    },
+    {
+        "id": 8,
+        "id_socio": 1,
+        "id_libro": 9,
+        "fecha_prestamo": "2024-06-22",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-22",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 9,
+        "id_socio": 3,
+        "id_libro": 6,
+        "fecha_prestamo": "2024-06-27",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-28",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 10,
+        "id_socio": 3,
+        "id_libro": 10,
+        "fecha_prestamo": "2024-06-27",
+        "costo": 0.0,
+        "fecha_devolucion": null,
+        "estado": "En Curso"
+    },
+    {
+        "id": 11,
+        "id_socio": 3,
+        "id_libro": 3,
+        "fecha_prestamo": "2024-06-28",
+        "costo": 0.0,
+        "fecha_devolucion": null,
+        "estado": "En Curso"
+    },
+    {
+        "id": 12,
+        "id_socio": 1,
+        "id_libro": 11,
+        "fecha_prestamo": "2024-06-28",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-28",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 13,
+        "id_socio": 1,
+        "id_libro": 1,
+        "fecha_prestamo": "2024-06-28",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-28",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 14,
+        "id_socio": 5,
+        "id_libro": 12,
+        "fecha_prestamo": "2024-06-28",
+        "costo": 0.0,
+        "fecha_devolucion": "2024-06-28",
+        "estado": "Devuelto"
+    }
+]

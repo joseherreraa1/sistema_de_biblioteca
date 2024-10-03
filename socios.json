@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "juan",
+        "apellido": "perez",
+        "fecha_nacimiento": "1990-07-12",
+        "direccion": "asdas",
+        "correo": "juan@gmail.com",
+        "telefono": "23654"
+    },
+    {
+        "id": 2,
+        "nombre": "patricio",
+        "apellido": "juarez",
+        "fecha_nacimiento": "1980-11-05",
+        "direccion": "parque sur 185",
+        "correo": "pato@gmail.com",
+        "telefono": "258963333"
+    },
+    {
+        "id": 3,
+        "nombre": "marcos",
+        "apellido": "rodriguez",
+        "fecha_nacimiento": "1995-06-25",
+        "direccion": "san martin 123",
+        "correo": "marcos@gmail.com",
+        "telefono": "23336888"
+    },
+    {
+        "id": 4,
+        "nombre": "alberto",
+        "apellido": "gimenez",
+        "fecha_nacimiento": "1970-01-22",
+        "direccion": "sarmiento 123",
+        "correo": "gimenez@gmail.com",
+        "telefono": "114879635"
+    },
+    {
+        "id": 5,
+        "nombre": "mario",
+        "apellido": "diaz",
+        "fecha_nacimiento": "2000-05-01",
+        "direccion": "san lorenzo 231",
+        "correo": "diaz@gmail.com",
+        "telefono": "23343"
+    }
+]
